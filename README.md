@@ -1,2 +1,2 @@
 # WebScraping
-Scape Igbo data fro news sites
+Scape Igbo data for news sites
